@@ -8,7 +8,7 @@
 `如果需要监听推送执行 请切换workflow_on_push分支`
 
 本人csdn上的博客 国内访问会很快
-[点击访问语雀笔记]([https://www.yuque.com/docs/share/66a239d8-f272-4a90-81bc-b2f5e30ccce6#3cfdeb22](https://blog.csdn.net/weixin_64612659?spm=1011.2415.3001.5343))
+[点击访问csdn笔记](https://blog.csdn.net/weixin_64612659?spm=1011.2415.3001.5343)
 
 
 源作者的博客以供参考
